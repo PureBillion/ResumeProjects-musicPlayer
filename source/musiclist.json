@@ -1,0 +1,120 @@
+
+[
+  {
+  "name": "三人游",
+  "singer": "陈奕辰",
+  "time": "03:58",
+  "album": "三人游",
+  "link_url": "./source/三人游（Cover：方大同）.mp3",
+  "cover": "./source/三人游.jpg",
+  "link_lrc": "./source/三人游.txt"
+},
+  {
+    "name": "SpongeBob",
+    "singer": "SpongeBob",
+    "time": "00:44",
+    "album": "SpongeBob SquarePants",
+    "link_url": "./source/SpongeBob SquarePants.mp3",
+    "cover": "./source/SpongeBob.jpg",
+    "link_lrc": "./source/SpongeBob SquarePants Theme Song - SpongeBob Squarepants.txt"
+  },
+  {
+    "name": "你啊你啊",
+    "singer": "尹毓恪",
+    "time": "01:52",
+    "album": "2017快乐男生全国赛第六期",
+    "link_url": "./source/你啊你啊.mp3",
+    "cover": "./source/你啊你啊.jpg",
+    "link_lrc": "./source/你啊你啊 - 尹毓恪.txt"
+  },
+  {
+    "name": "原来",
+    "singer": "Matzka玛斯卡&家家",
+    "time": "04:10",
+    "album": "东南美",
+    "link_url": "./source/原来.mp3",
+    "cover": "./source/原来.jpg",
+    "link_lrc": "./source/原来 - Matzka玛斯卡.txt"
+  },
+  {
+    "name": "可乐",
+    "singer": "黄榕生",
+    "time": "04:04",
+    "album": "2017快乐男生全国赛第六期",
+    "link_url": "./source/可乐.mp3",
+    "cover": "./source/可乐.jpg",
+    "link_lrc": "./source/可乐 - 黄榕生.txt"
+  },
+  {
+    "name": "差点",
+    "singer": "丁倩倩",
+    "time": "02:59",
+    "album": "差点",
+    "link_url": "./source/差点.mp3",
+    "cover": "./source/差点.jpg",
+    "link_lrc": "./source/差点 - 丁倩倩.txt"
+  },
+  {
+    "name": "抛物线",
+    "singer": "蔡健雅",
+    "time": "05：07",
+    "album": "若你碰到他",
+    "link_url": "./source/抛物线.mp3",
+    "cover": "./source/抛物线.jpg",
+    "link_lrc": "./source/抛物线 - 蔡健雅.txt"
+  },
+  {
+    "name": "推开世界的门",
+    "singer": "黄榕生",
+    "time": "03：05",
+    "album": "2017快乐男生全国赛第六期",
+    "link_url": "./source/推开世界的门.mp3",
+    "cover": "./source/推开世界的门.jpg",
+    "link_lrc": "./source/推开世界的门 - 黄榕生.txt"
+  },
+  {
+    "name": "早安，晨之美",
+    "singer": "卢广仲",
+    "time": "03:13",
+    "album": "早安，晨之美",
+    "link_url": "./source/早安，晨之美.mp3",
+    "cover": "./source/早安-晨之美.jpg",
+    "link_lrc": "./source/早安，晨之美.txt"
+  },
+  {
+    "name": "疯子",
+    "singer": "许哲佩",
+    "time": "04:31",
+    "album": "许愿盒",
+    "link_url": "./source/疯子.mp3",
+    "cover": "./source/疯子.jpg",
+    "link_lrc": "./source/疯子 - 许哲佩.txt"
+  },
+  {
+    "name": "笑忘书",
+    "singer": "王菲",
+    "time": "04:27",
+    "album": "寓言",
+    "link_url": "./source/笑忘书.mp3",
+    "cover": "./source/笑忘书.jpg",
+    "link_lrc": "./source/笑忘书 - 王菲.txt"
+  },
+  {
+    "name": "记念",
+    "singer": "RAiNBOW计划雷雨心",
+    "time": "03:23",
+    "album": "橙",
+    "link_url": "./source/记念.mp3",
+    "cover": "./source/记念.jpg",
+    "link_lrc": "./source/记念.txt"
+  },
+  {
+    "name": "追光者",
+    "singer": "宋黛霆",
+    "time": "03:57",
+    "album": "Cover合集",
+    "link_url": "./source/追光者 英文版（Cover 岑宁儿）.mp3",
+    "cover": "./source/追光者.jpg",
+    "link_lrc": "./source/追光者 英文版（Cover 岑宁儿） - 宋黛霆.txt"
+  }
+]
